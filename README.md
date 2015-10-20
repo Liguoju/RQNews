@@ -1,5 +1,5 @@
 # RQNews
-![image](https://github.com/GreenTom/RQNews/blob/master/%E6%8E%8C%E4%B8%8A%E6%96%B0%E9%97%BB/%E6%8E%8C%E4%B8%8A%E6%96%B0%E9%97%BB/Source/ios/AppIcon.appiconset/Icon-40%402x.png)
+![image](https://github.com/GreenTom/RQNews/blob/master/%E6%8E%8C%E4%B8%8A%E6%96%B0%E9%97%BB/%E6%8E%8C%E4%B8%8A%E6%96%B0%E9%97%BB/Source/ios/AppIcon.appiconset/Icon-40%402x.png)一个简单的新闻浏览项目
 
 ## Contents
 * [效果预览](#效果预览)
