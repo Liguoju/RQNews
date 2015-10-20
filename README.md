@@ -23,8 +23,17 @@
 /** 创建排序按钮 */
 @property (weak, nonatomic) IBOutlet UIButton *sortButton;
 
-/** */
-/** */
+/** 存喜欢的栏目 */
+@property (nonatomic) NSMutableArray *newsTitleArray;
+/** 存不喜欢的栏目 */
+@property (nonatomic) NSMutableArray *deleteTitleArray;
+
+/** 初始化栏目视图 */
+- (void)addSortItem;
+/** 添加长按手势 */
+- (void)handleLongPress:(UILongPressGestureRecognizer *)recognizer;
+/** 解决长按手势和点击事件冲突 */
+longPress.cancelsTouchesInView = NO;
 ```
 ##<a id="标题动画"></a>标题动画
 ```objc
