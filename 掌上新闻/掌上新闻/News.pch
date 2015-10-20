@@ -1,0 +1,67 @@
+//
+//  News.pch
+//  网易新闻
+//
+//  Created by qianfeng on 15/9/29.
+//  Copyright (c) 2015年 XieRenQiang. All rights reserved.
+//
+
+#ifndef _____News_pch
+#define _____News_pch
+
+#ifdef __OBJC__
+
+#define COLLECT @"收藏"
+#define SCREEN_W [UIScreen mainScreen].bounds.size.width
+#define SCREEN_H [UIScreen mainScreen].bounds.size.height
+
+//数据模型
+#import "RootModel.h"
+#import "DataModel.h"
+#import "AuthorModel.h"
+#import "WeatherModel.h"
+
+#import "Define.h"
+
+//第三方
+#import "UIImageView+WebCache.h"
+#import "JHRefresh.h"
+
+//工具
+#import "NetDataEngine.h"
+#import "UIView+Frame.h"
+#import "LimitHelper.h"
+#import "LimitDBManager.h"
+#import "LimitCachManager.h"
+
+//VIEW
+#import "NewsTableViewController.h"
+#import "DetailViewController.h"
+#import "MoreViewController.h"
+#import "CollectViewController.h"
+#import "CtiyViewController.h"
+#import "ShakeViewController.h"
+#import "AboutUsViewController.h"
+
+#import "QRViewController.h"
+#import "FirstPageScrollew.h"
+
+//CELL
+#import "NewsTableViewCell.h"
+#import "VideoTableViewCell.h"
+#import "NoPicTableViewCell.h"
+#import "CollectTableViewCell.h"
+#import "TitleLabel.h"
+
+#endif
+
+
+#ifdef DEBUG
+#define NSLog(...) NSLog(__VA_ARGS__)
+#define debugMethod() NSLog(@"%s", __func__)
+#else
+#define NSLog(...)
+#define debugMethod()
+#endif
+
+#endif

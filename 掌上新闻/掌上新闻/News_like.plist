@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>首页</string>
+		<key>urlType</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>商业</string>
+		<key>urlType</key>
+		<string>117</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>天下</string>
+		<key>urlType</key>
+		<string>118</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>中国</string>
+		<key>urlType</key>
+		<string>260</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>娱乐</string>
+		<key>urlType</key>
+		<string>203</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>体育</string>
+		<key>urlType</key>
+		<string>202</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>时尚</string>
+		<key>urlType</key>
+		<string>183</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>视频</string>
+		<key>urlType</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>科技</string>
+		<key>urlType</key>
+		<string>123</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>汽车</string>
+		<key>urlType</key>
+		<string>138</string>
+	</dict>
+</array>
+</plist>
