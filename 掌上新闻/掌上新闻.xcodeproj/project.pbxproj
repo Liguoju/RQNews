@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BCB528961BD6462000441C0C /* new2.png in Resources */ = {isa = PBXBuildFile; fileRef = BCB528921BD6462000441C0C /* new2.png */; };
+		BCB528971BD6462000441C0C /* new3.png in Resources */ = {isa = PBXBuildFile; fileRef = BCB528931BD6462000441C0C /* new3.png */; };
+		BCB528981BD6462000441C0C /* new1.png in Resources */ = {isa = PBXBuildFile; fileRef = BCB528941BD6462000441C0C /* new1.png */; };
+		BCB528991BD6462000441C0C /* new4.png in Resources */ = {isa = PBXBuildFile; fileRef = BCB528951BD6462000441C0C /* new4.png */; };
 		BCD1AEBF1BCA758C00DD91A2 /* WeatherModel.m in Sources */ = {isa = PBXBuildFile; fileRef = BCD1AEBE1BCA758C00DD91A2 /* WeatherModel.m */; };
 		BCD1AEC21BCA763600DD91A2 /* FirstPageScrollew.m in Sources */ = {isa = PBXBuildFile; fileRef = BCD1AEC11BCA763600DD91A2 /* FirstPageScrollew.m */; };
 		BCEF3A771BCB9C30008CC2CE /* AboutUsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BCEF3A761BCB9C30008CC2CE /* AboutUsViewController.m */; };
@@ -218,6 +222,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BCB528921BD6462000441C0C /* new2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = new2.png; sourceTree = "<group>"; };
+		BCB528931BD6462000441C0C /* new3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = new3.png; sourceTree = "<group>"; };
+		BCB528941BD6462000441C0C /* new1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = new1.png; sourceTree = "<group>"; };
+		BCB528951BD6462000441C0C /* new4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = new4.png; sourceTree = "<group>"; };
 		BCD1AEBD1BCA758C00DD91A2 /* WeatherModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeatherModel.h; sourceTree = "<group>"; };
 		BCD1AEBE1BCA758C00DD91A2 /* WeatherModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WeatherModel.m; sourceTree = "<group>"; };
 		BCD1AEC01BCA763600DD91A2 /* FirstPageScrollew.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstPageScrollew.h; sourceTree = "<group>"; };
@@ -824,6 +832,10 @@
 		BCF0FEA61BCA6EBE00791543 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				BCB528921BD6462000441C0C /* new2.png */,
+				BCB528931BD6462000441C0C /* new3.png */,
+				BCB528941BD6462000441C0C /* new1.png */,
+				BCB528951BD6462000441C0C /* new4.png */,
 				BCD1AEBD1BCA758C00DD91A2 /* WeatherModel.h */,
 				BCD1AEBE1BCA758C00DD91A2 /* WeatherModel.m */,
 				BCF0007C1BCA731F00791543 /* AuthorModel.h */,
@@ -1421,18 +1433,21 @@
 				BCEF3AC31BCBFD08008CC2CE /* Icon-72.png in Resources */,
 				BCF0003E1BCA712300791543 /* iconfont-yin.png in Resources */,
 				BCEF3AC61BCBFD08008CC2CE /* Icon-Small-50@2x.png in Resources */,
+				BCB528981BD6462000441C0C /* new1.png in Resources */,
 				BCFDD8691BCC960E00C9ECCA /* iconfont-qingchu.png in Resources */,
 				BCF0FFE51BCA6F1500791543 /* UMSCommentInputController.xib in Resources */,
 				BCF0FFF01BCA6F1500791543 /* TencentOpenApi_IOS_Bundle.bundle in Resources */,
 				BCF0FFE41BCA6F1500791543 /* UMSCommentDetailController.xib in Resources */,
 				BCEF3ABF1BCBFD08008CC2CE /* Icon-Small.png in Resources */,
 				BCEF3ABC1BCBFD08008CC2CE /* Icon-60@3x.png in Resources */,
+				BCB528971BD6462000441C0C /* new3.png in Resources */,
 				BCF0FE8A1BCA6D5900791543 /* Main.storyboard in Resources */,
 				BCEF3A8A1BCBBB13008CC2CE /* shake_down.png in Resources */,
 				BCEF3AC71BCBFD08008CC2CE /* Icon.png in Resources */,
 				BCF0004B1BCA712300791543 /* iconfont-shoucang.png in Resources */,
 				BCF0FFA61BCA6F1500791543 /* JHRefresh.bundle in Resources */,
 				BCF000751BCA72EB00791543 /* CollectTableViewCell.xib in Resources */,
+				BCB528961BD6462000441C0C /* new2.png in Resources */,
 				BCEF3A871BCBA615008CC2CE /* iconfont-2.png in Resources */,
 				BCF0FFEC1BCA6F1500791543 /* UMSocialSDKResourcesNew.bundle in Resources */,
 				BCF0FFE61BCA6F1500791543 /* UMSCommentInputControlleriPad.xib in Resources */,
@@ -1461,6 +1476,7 @@
 				BCF0007B1BCA72EB00791543 /* VideoTableViewCell.xib in Resources */,
 				BCF000791BCA72EB00791543 /* NoPicTableViewCell.xib in Resources */,
 				BCEF3AC41BCBFD08008CC2CE /* Icon-72@2x.png in Resources */,
+				BCB528991BD6462000441C0C /* new4.png in Resources */,
 				BCF0FE8C1BCA6D5900791543 /* Images.xcassets in Resources */,
 				BCF0FFE91BCA6F1500791543 /* UMSLoginViewController.xib in Resources */,
 				BCF0004D1BCA712300791543 /* iconfont-shouye.png in Resources */,
