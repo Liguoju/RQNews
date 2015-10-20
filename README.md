@@ -7,6 +7,7 @@
 * [标题动画](#标题动画)
     
 ##<a id="底层滑动实现"></a>底层滑动实现
+![image](https://github.com/GreenTom/RQNews/blob/master/%E6%8E%8C%E4%B8%8A%E6%96%B0%E9%97%BB/%E6%8E%8C%E4%B8%8A%E6%96%B0%E9%97%BB/Models/new2.png)
 ```objc
 /** 添加子控制器 */
 - (void)addController;
@@ -18,6 +19,7 @@
 - (void)scrollViewDidScroll:(UIScrollView *)scrollView;
 ```
 ##<a id="排序模块实现"></a>排序模块实现
+![image](https://github.com/GreenTom/RQNews/blob/master/%E6%8E%8C%E4%B8%8A%E6%96%B0%E9%97%BB/%E6%8E%8C%E4%B8%8A%E6%96%B0%E9%97%BB/Models/new3.png)
 ```objc
 /** 创建排序视图 */
 @property (nonatomic, strong) UIView *sortItemView;
@@ -37,6 +39,7 @@
 longPress.cancelsTouchesInView = NO;
 ```
 ##<a id="标题动画"></a>标题动画
+![image](https://github.com/GreenTom/RQNews/blob/master/%E6%8E%8C%E4%B8%8A%E6%96%B0%E9%97%BB/%E6%8E%8C%E4%B8%8A%E6%96%B0%E9%97%BB/Models/new1.png)
 ```objc
 /** 标题Label属性 */
 - (void)setScale:(CGFloat)scale{
